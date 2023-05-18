@@ -1,2 +1,0 @@
-# tryvalmedia.github.io
-Website
