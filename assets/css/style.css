@@ -608,7 +608,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5846f9;
+  color: #1A2859;
 }
 
 .about .content p:last-child {
@@ -625,12 +625,12 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(45deg, #1A2859 0%, #3F86CB 100%);
   position: relative;
 }
 
 .about .content .read-more:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #1A2859 0%, #3F86CB 100%);
 }
 
 .about .content .read-more i {
